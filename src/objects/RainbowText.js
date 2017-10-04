@@ -1,4 +1,4 @@
-class RainbowText extends Phaser.Text {
+	class RainbowText extends Phaser.Text {
 
 	constructor(game, x, y, text) {
 
