@@ -4,6 +4,7 @@ var GameScreen = {
 };
 
 var Images = {
-    lander: 'images/bad.png'
+    lander: 'images/bad.png',
+    logo: 'images/pic.jpg'
 };
 export {GameScreen,Images};
